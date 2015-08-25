@@ -11,7 +11,7 @@ Statistics Toolbox is a quick and convenient tool for users to perform common ta
 Statistics Toolbox user interface can be directly launched online without installing any software package. The URL to English version is https://statool.shinyapps.io/English and the URL to Chinese version https://statool.shinyapps.io/Chinese. It is strongly recommended that users install Statistics Toolbox on their own computers with following procedures.
 
 ## 统计工具箱在线用户界面
-统计工具箱在线用户界面无需按照任何软件即可直接运行。英文版网址为：https://statool.shinyapps.io/English; 中文版网址为：https://statool.shinyapps.io/Chinese 。强烈推荐用户使用以下方法在本地计算机安装并运行统计工具箱。
+统计工具箱在线用户界面无需按照任何软件即可直接运行。英文版网址为：https://statool.shinyapps.io/English; 中文版网址为：https://statool.shinyapps.io/Chinese. 强烈推荐用户使用以下方法在本地计算机安装并运行统计工具箱。
 
 ## Statistics Toolbox Installation
 
@@ -36,7 +36,7 @@ ChineseUI()
 ```
 ##安装统计工具箱
 
-安装统计工具箱前用户首先必须安装R统计软件。R(https://www.r-project.org/)是最常用的统计软件并且是免费的。Windows版本的R可在下列网站下载：https://cran.rstudio.com/bin/windows/base/R-3.2.2-win.exe。苹果OSX版本的R可在下列网站下载：https://cran.rstudio.com/bin/macosx/R-3.2.2.pkg.
+安装统计工具箱前用户首先必须安装R统计软件。R (https://www.r-project.org/) 是最常用的统计软件并且是免费的。Windows版本的R可在下列网站下载：https://cran.rstudio.com/bin/windows/base/R-3.2.2-win.exe. 苹果OSX版本的R可在下列网站下载：https://cran.rstudio.com/bin/macosx/R-3.2.2.pkg.
 
 在R中运行以下程序来安装最新版的统计工具箱：
 ```{r }
