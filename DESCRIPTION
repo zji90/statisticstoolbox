@@ -1,0 +1,14 @@
+Package: statisticstoolbox
+Type: Package
+Title: Statistics Toolbox 
+Version: 1.0.0
+Date: 2015-07-10
+Author: Zhicheng Ji
+Maintainer: Zhicheng Ji <zji4@jhu.edu>
+Description: Statistics Toolbox is a quick and convenient tool for users to perform common tasks in statistics without writing computer programs. Statistics Toolbox currently provides three major statistics functions: 1. drawing and calculating pdf and cdf functions of common statistics distributions; 2. Performing common statistical tests; 3. Calculating sample size and statistical power. Statistics Toolbox uses the same algorithms as those used by R. For other versions of Statistics Toolbox please visit: http://www.biostat.jhsph.edu/~zji4/#Statisticstoolbox 
+License: GPL(>=2)
+Imports:
+    shiny,
+    DT
+Depends:
+    R(>= 3.2)
