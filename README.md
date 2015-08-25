@@ -59,14 +59,20 @@ EnglishUI()
 
 ## Contact the Author
 Author: Zhicheng Ji
+
 Report bugs and provide suggestions by sending email to:
+
 Maintainer: Zhicheng Ji (zji4@jhu.edu)
+
 Or open a new issue in this Github page
 
 ## 联系作者
 作者：季志成
+
 请发送意见和建议至：
+
 维护者：季志成 (zji4@jhu.edu)
+
 或者在此Github页面上新开issue
 
 ## License
