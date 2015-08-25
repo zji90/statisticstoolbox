@@ -11,7 +11,7 @@ Statistics Toolbox is a quick and convenient tool for users to perform common ta
 Statistics Toolbox user interface can be directly launched online without installing any software package. The URL to English version is https://statool.shinyapps.io/English and the URL to Chinese version https://statool.shinyapps.io/Chinese. It is strongly recommended that users install Statistics Toolbox on their own computers with following procedures.
 
 ## 统计工具箱在线用户界面
-统计工具箱在线用户界面无需按照任何软件即可直接运行。英文版网址为：https://statool.shinyapps.io/English；中文版网址为：https://statool.shinyapps.io/Chinese 。强烈推荐用户使用以下方法在本地计算机安装并运行统计工具箱。
+统计工具箱在线用户界面无需按照任何软件即可直接运行。英文版网址为：https://statool.shinyapps.io/English; 中文版网址为：https://statool.shinyapps.io/Chinese 。强烈推荐用户使用以下方法在本地计算机安装并运行统计工具箱。
 
 ## Statistics Toolbox Installation
 
